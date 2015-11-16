@@ -1,3 +1,11 @@
+*~
+
+# KDE directory preferences
+.directory
+
+# Linux trash folder which might appear on any partition or disk
+.Trash-*
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
